@@ -1,8 +1,8 @@
-# Superstore Sales Analysis Using Power BI and SQL
+# RetailIQ: End-to-End Retail Sales Analytics Pipeline
 
 ## Problem Statement
 
-This project aims to perform a comprehensive analysis of sales data from a fictional superstore to generate actionable insights that support strategic business decision-making. The primary challenges addressed include:
+This project aims to perform a comprehensive analysis of sales data from a fictional retail superstore to generate actionable insights that support strategic business decision-making. The primary challenges addressed include:
 
 - Preprocessing and cleaning raw, unstructured data  
 - Transforming data into an analysis-ready format  
